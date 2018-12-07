@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\tr_lnd_user\Desktop\Sprint\.metadata\.plugins\org.eclipse.jdt.core
